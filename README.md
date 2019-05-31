@@ -1,5 +1,10 @@
 # Spotify Audio-features Fetcher
 
+## Install dependencies
+
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 
