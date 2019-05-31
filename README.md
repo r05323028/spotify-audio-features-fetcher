@@ -1,5 +1,7 @@
 # Spotify Audio-features Fetcher
 
+a simple tool to access spotify audio features and audio analysis.
+
 ## Install dependencies
 
 ```
