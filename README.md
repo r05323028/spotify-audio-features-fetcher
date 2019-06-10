@@ -18,7 +18,7 @@ CLIENT_ID = '<YOUR_CLIENT_ID>'
 CLIENT_SECRET = '<YOUR_CLIENT_SECRET>'
 ```
 
-next, use `SpotifySong` to acess the audio features.
+next, use `SpotifySong` to access the audio features.
 
 ```python
 
